@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson_07_SimpleToDo</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnDelete">Delete</string>
+    <string name="tvWelcome">Welcome to The To-Do List App</string>
+    <string name="tvPurpose">This app helps you to organize your activities in a list!</string>
+    <string-array name="spinnerItems" >
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+</resources>
